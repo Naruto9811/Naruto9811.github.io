@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Peter Peilin Liu"
   avatar           : "/imgs/avatar.png"
-  bio              : "Blade Runne"
+  bio              : "Blade Runner in ZJU"
   location         : "Hangzhou, China"
   email            : "3170105250@zju.edu.cn"
   links:
@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/lwaekfjlk"
+      url: "https://github.com/Naruto9811"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
